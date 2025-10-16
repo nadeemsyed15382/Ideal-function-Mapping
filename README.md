@@ -168,5 +168,4 @@ Pytest (unit testing)
 
 ## Author
 Developed by Syed Nadeem
-
 as part of IU International University’s Data Science module: Programming with Python (DLMDSPWP01).
