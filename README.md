@@ -127,7 +127,7 @@ source venv/bin/activate
  Step 3: Install Dependencies
 bash
 pip install -r requirements.txt
-🚀 Run the Program
+ Run the Program
 To execute the full workflow:
 
 bash
@@ -144,7 +144,7 @@ Saves data to SQLite
 
 Generates an HTML visualization
 
-📊 Example Output
+ Example Output
 File generated: function_mapping_visual.html
 
 
